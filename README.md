@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @JudexMars
-- 👀 I’m interested in dissecting girls. Did you know I'm utterly insane?
-- 🌱 I’m currently learning new paths to the ascension.
-- 💞️ I’m looking to collaborate on studying cosmic entities.
-- 📫 How to reach me? Please use my telegram: @daniel_elfman
+- 👀 I’m an ordinary beginner-developer, currently also a student
+- ❤️ Know a little about python, C++ and C#
 
 <!---
 JudexMars/JudexMars is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
