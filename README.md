@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JudexMars
-- 👀 A student
-- ❤️ Languages: C++, Python, C#
+- 🧑‍💻 A student 
+- ❤️ Languages: ☕️Java, C++, Python
 
 <!---
 JudexMars/JudexMars is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
